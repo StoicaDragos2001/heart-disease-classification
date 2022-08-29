@@ -9,6 +9,7 @@
 * **Data Source**: https://archive.ics.uci.edu/ml/datasets/heart+Disease
 ## EDA
 I looked at the relationships between certain features found in our data. Below are a few highlights from the analysis made.
+
 ![download](https://user-images.githubusercontent.com/79250297/187205473-dfd0ab87-01ee-438e-a4d7-e16c2a1b7fec.png)
 ![download](https://user-images.githubusercontent.com/79250297/187205571-80406248-3512-4163-99dc-d113208cfe2c.png)
 ![download](https://user-images.githubusercontent.com/79250297/187205592-8e0acbda-af37-4630-8527-f2824001d5df.png)
