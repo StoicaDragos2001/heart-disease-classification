@@ -31,4 +31,5 @@ The Logistic Regression model far outperformed the K Neighbors Classifier and sl
 ![download](https://user-images.githubusercontent.com/79250297/187207300-9fcf74b8-a06a-4d02-9655-ae10bd223087.png)
 
 After hyperparameters tuning and cross validation, Logistic Regression had an accuracy of 0.844%. Other metrics are shown below.
+
 ![download](https://user-images.githubusercontent.com/79250297/187207798-8cd63454-48fd-43dd-9533-99177fb742e2.png)
